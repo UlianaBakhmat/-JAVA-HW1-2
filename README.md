@@ -1,4 +1,4 @@
-# ОТЧЕТ О ТЕСТИРОВАНИИ Credit Card Number Validator#
+# ОТЧЕТ О ТЕСТИРОВАНИИ Credit Card Number Validator
 
 ## Краткое описание
 
@@ -67,4 +67,4 @@
 * Chrome (83.0.4103.116)
 * Git Bash 2.26.2.windows.1
 
-
+### Скриншот (см. приложении карта.png)
