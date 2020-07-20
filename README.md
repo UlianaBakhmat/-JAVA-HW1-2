@@ -12,6 +12,7 @@
 
 ## В результате тестирования были выявлены следующие дефекты:
 1.https://github.com/UlianaBakhmat/-JAVA-HW1-2/issues/1
+
 2.https://github.com/UlianaBakhmat/-JAVA-HW1-2/issues/2
 
 ### VISA:
